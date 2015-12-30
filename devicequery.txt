@@ -1,0 +1,25 @@
+CUDA Device Query...
+There are 1 CUDA devices.
+
+CUDA Device #0
+Major revision number:         3
+Minor revision number:         2
+Name:                          GK20A
+Total global memory:           1984397312
+Total shared memory per block: 49152
+Total registers per block:     32768
+Warp size:                     32
+Maximum memory pitch:          2147483647
+Maximum threads per block:     1024
+Maximum dimension 0 of block:  1024
+Maximum dimension 1 of block:  1024
+Maximum dimension 2 of block:  64
+Maximum dimension 0 of grid:   2147483647
+Maximum dimension 1 of grid:   65535
+Maximum dimension 2 of grid:   65535
+Clock rate:                    852000
+Total constant memory:         65536
+Texture alignment:             512
+Concurrent copy and execution: Yes
+Number of multiprocessors:     1
+Kernel execution timeout:      No
