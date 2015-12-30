@@ -1,0 +1,35 @@
+deviceCount: 1
+name: GK20A
+major: 3
+minor: 2
+multiProcessorCount: 1
+totalGlobalMem: 1984397312 B = 1892 MB
+sharedMemPerBlock: 49152 B = 48 KB
+totalConstMem: 65536 B = 64 KB
+regsPerBlock: 32768
+ECCEnabled: 0
+kernelExecTimeoutEnabled: 0
+clockRate: 852000 KHz = 852 MHz
+memoryClockRate: 924000 KHz = 924 MHz
+memoryBusWidth: 64 bits
+l2CacheSize: 131072 B = 128 KB
+warpSize: 32
+maxThreadsPerMultiProcessor: 2048
+maxThreadsPerBlock: 1024
+maxThreadsDim[0]: 1024
+maxThreadsDim[1]: 1024
+maxThreadsDim[2]: 64
+maxGridSize[0]: 2147483647
+maxGridSize[1]: 65535
+maxGridSize[2]: 65535
+deviceOverlap: 1
+asyncEngineCount: 1
+integrated: 1
+canMapHostMemory: 1
+concurrentKernels: 1
+tccDriver: 0
+unifiedAddressing: 1
+pciBusID: 0
+pciDeviceID: 0
+computeMode: 0
+computeMode: Default (multiple host threads can use ::cudaSetDevice() with device simultaneously)
