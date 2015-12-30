@@ -7,3 +7,7 @@
 
 # executables
 *.exe
+
+# other
+*~
+
